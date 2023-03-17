@@ -76,7 +76,10 @@ body {
 .flex-container-round {
     justify-content: space-around;
 }
-
+.flex-flex-start
+{
+    justify-content: flex-start;
+}
 .flex-space-between {
     justify-content: space-between;
 }
