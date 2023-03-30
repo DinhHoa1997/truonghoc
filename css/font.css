@@ -1,23 +1,23 @@
 
 @font-face {
-    font-family:Kanit-B;
-    src: url('fonts/Kanit-Medium.ttf');
+    font-family:Lato-B;
+    src: url('fonts/Lato/Lato\ Black.ttf');
     font-display: swap;
     font-weight: normal;
 }
 
 
 @font-face {
-    font-family:Kanit;
-    src: url('fonts/Kanit-Regular.ttf');
+    font-family:Lato-R;
+    src: url('fonts/Lato/Lato\ Bold.ttf');
     font-display: swap;
     font-weight: normal;
     font-weight: normal;
 }
 
 @font-face {
-    font-family:Kanit-L;
-    src: url('fonts/Kanit-Light.ttf');
+    font-family:Lato;
+    src: url('fonts/Lato/Lato\ Medium.ttf');
     font-display: swap;
 }
 
